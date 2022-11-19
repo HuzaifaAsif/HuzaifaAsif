@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="79.2%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <!-- GIF HEADER -->
 <img src="https://github.com/HuzaifaAsif/gif/blob/main/ezgif.com-gif-maker%20(2).gif">
 
@@ -115,4 +115,4 @@
     </a>
 
 <!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="79.2%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
