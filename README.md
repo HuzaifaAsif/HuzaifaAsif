@@ -1,7 +1,7 @@
 <!-- RAINBOW LINE TOP -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<img src="https://github.com/HuzaifaAsif/gif/blob/main/ezgif.com-gif-maker%20(2).gif">
+<img src="https://s1.gifyu.com/images/ezgif.com-gif-maker-2-109d051cbb2809df6.gif">
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huzaifa&label=Profile%20views&color=0e75b6&style=flat" alt="Huzaifa Asif" /> </p>
